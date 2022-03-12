@@ -26,8 +26,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="480em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscarvalho&show_icons=true&theme=vision-friendly-dark" alt="rodrigoscarvalho's stats"/> &nbsp &nbsp
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoscarvalho&layout=compact&theme=vision-friendly-dark" alt="rodrigoscarvalho's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=rodrigoscarvalho&show_icons=true&theme=vision-friendly-dark" alt="rodrigoscarvalho's stats"/> &nbsp &nbsp
+<img width="400em" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoscarvalho&layout=compact&theme=vision-friendly-dark" alt="rodrigoscarvalho's most languages"/>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoscarvalho&color=red" alt="Profile views" /> </p>
