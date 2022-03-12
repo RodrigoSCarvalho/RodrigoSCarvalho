@@ -4,7 +4,7 @@
 
 - 📚 Cursando Bacharelado em Sistemas de Informação na Universidade Federal Fluminense.
 
-- 💼 Atualmente estagiando na equipe de Arquitetura de Soluções na [Supergasbras](https://www.linkedin.com/company/supergasbras)
+- 💼 Atualmente estagiando na equipe de Arquitetura de Soluções na [Supergasbras](https://www.linkedin.com/company/supergasbras).
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
