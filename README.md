@@ -2,7 +2,7 @@
 
 
 
-- 📚 Cursando Mestrado em Computação Informação na Universidade Federal Fluminense.
+- 📚 Mestrando em Computação Informação na Universidade Federal Fluminense.
 
 - 💼 Atualmente sou Analista Jr. na equipe de Soluções Digitais na [Supergasbras](https://www.linkedin.com/company/supergasbras).
 <br><br>
